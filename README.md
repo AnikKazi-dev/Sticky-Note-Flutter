@@ -33,13 +33,16 @@
 
 ## About the project
 
-* **XXXXXX**: XXX.
-* **XXXX**: XXXXXXXX.
+* **Backend connection**: sqflite
 
 ## Key Features
 
-* **State management**: Redux, BloC, repository patterns .
-* **Backend connection**: API provider pattern.
+✓ Local backup and Restore  
+✓ Scrollable text  
+✓ Organize notes by color (color notebook)  
+✓ Write a diary and journal  
+✓ List/Grid View  
+✓ Quick memo / notes  
 
 ## Built With
 
